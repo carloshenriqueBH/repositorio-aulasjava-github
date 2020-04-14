@@ -9,6 +9,9 @@ public class ExerciciosGeometria {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * programa alterado e commitado em 14/04/2020
+		 */
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Informe os dados do retângulo:");
